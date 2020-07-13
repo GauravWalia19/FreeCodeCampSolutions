@@ -1,0 +1,20 @@
+{
+  "name": "freecodecampsolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravWalia19/FreeCodeCampSolutions.git"
+  },
+  "keywords": [],
+  "author": "Gaurav Walia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravWalia19/FreeCodeCampSolutions/issues"
+  },
+  "homepage": "https://github.com/GauravWalia19/FreeCodeCampSolutions#readme"
+}
