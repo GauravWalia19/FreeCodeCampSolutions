@@ -1,5 +1,6 @@
 {
   "name": "freecodecampsolutions",
+  "author": "Gaurav Walia",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +12,6 @@
     "url": "git+https://github.com/GauravWalia19/FreeCodeCampSolutions.git"
   },
   "keywords": [],
-  "author": "Gaurav Walia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GauravWalia19/FreeCodeCampSolutions/issues"
